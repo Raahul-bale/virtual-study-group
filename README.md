@@ -1,6 +1,7 @@
 # Virtual Study Group Platform
 
 A comprehensive MERN stack-based virtual study group platform that enables students to collaborate, learn, and grow together.
+watch the preview : https://drive.google.com/file/d/1FTV6a6dKe0Br8Hhp-6GpiOgSgMs3Eh-f/view?usp=sharing
 
 ## Features
 
